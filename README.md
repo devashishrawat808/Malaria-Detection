@@ -7,8 +7,9 @@ In this project, Malaria Detection was done by comparing two Transfer Learning T
 2.VGG19
 
 ## Dataset
-The dataset have 27,560 Images.
+The dataset contains 27,560 Images.
 
 Dataset Link- https://www.kaggle.com/dharminshah/cell-images
+
 
 
